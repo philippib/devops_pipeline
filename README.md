@@ -8,13 +8,10 @@
 <br/>
 <h3 align="center">Exemplo de Pipeline DevOps / Pipeline DevOps Example</h3>
 <div align="center">
-  <a href="https://github.com/brunnox/devops_pipeline">
     <img src="/static/imgs/pipeline_devops.jpg" alt="Pipeline">
-</a>
 </div>
 
-Para mais conteúdos acesse meu site [brxnnox.tech](https://brxnnox.tech/en/)
-For more content visit my website [brxnnox.tech](https://brxnnox.tech/pt/)
+<p align="center">Para mais conteúdos acesse meu site <a href="https://www.example.com">brxnnox.tech</a> | For more content visit my website <a href="https://www.example.com">brxnnox.tech</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/brunnox/devops_pipeline.svg?style=for-the-badge
 [contributors-url]: https://github.com/brunnox/devops_pipeline/graphs/contributors
