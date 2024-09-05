@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Brx QR-Code Generator</title>
+	<link rel="stylesheet" href="/static/css/main.css">
+</head>
+
+<body>
+	<div class="container">
+        <img src="/static/logo.png" alt="Logo">
+		<h4>Brx QR-Code Generator</h4>
+        <form action="/generate_qr" method="get">
+            <input type="text" name="data" placeholder="Digite o conteúdo ou link do QR code" required>
+            <button type="submit">Gerar QR Code</button>
+        </form>
+        {% if qr_code_url %}
+        <div class="qr-code">
+            <h2>QR Code Gerado:</h2>
+            <img src="{{ qr_code_url }}" alt="QR Code">
+            <br>
+            <a href="{{ qr_code_url }}" download="qrcode.png">
+                <button>Download QR Code</button>
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</body>
+
+</html>
