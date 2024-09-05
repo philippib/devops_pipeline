@@ -6,15 +6,15 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br/>
-<h3 align="center">Exemplo de Pipeline DevOps</h3>
+<h3 align="center">Exemplo de Pipeline DevOps / Pipeline DevOps Example</h3>
+<div align="center">
+  <a href="https://github.com/brunnox/devops_pipeline">
+    <img src="/static/imgs/pipeline_devops.jpg" alt="Pipeline">
+</a>
+</div>
 
-![Pipeline Status](https://github.com/brunnox/devops_pipeline/actions/workflows/pipeline.yml/badge.svg) 
-
-
-## Mostrando o Ciclo de uma PipeLine DevOps
-
-
-Para mais conteúdos acesse meu site [Brxnnox](https://brxnnox.tech)
+Para mais conteúdos acesse meu site [brxnnox.tech](https://brxnnox.tech/en/)
+For more content visit my website [brxnnox.tech](https://brxnnox.tech/pt/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/brunnox/devops_pipeline.svg?style=for-the-badge
 [contributors-url]: https://github.com/brunnox/devops_pipeline/graphs/contributors
