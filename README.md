@@ -11,7 +11,7 @@
     <img src="/static/imgs/pipeline_devops.jpg" alt="Pipeline">
 </div>
 
-<p align="center">Para mais conteúdos acesse meu site <a href="https://www.example.com">brxnnox.tech</a> | For more content visit my website <a href="https://www.example.com">brxnnox.tech</a></p>
+<p align="center">Para mais conteúdos acesse meu site <a href="https://brxnnox.tech">brxnnox.tech</a> | For more content visit my website <a href="https://brxnnox.tech">brxnnox.tech</a></p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/brunnox/devops_pipeline.svg?style=for-the-badge
 [contributors-url]: https://github.com/brunnox/devops_pipeline/graphs/contributors
