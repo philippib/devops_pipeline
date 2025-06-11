@@ -1,4 +1,4 @@
-Flask==3.1.10
+Flask==3.1.0
 gunicorn
 qrcode
 
